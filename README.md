@@ -19,7 +19,7 @@
 ```
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ CLion
-Για την καλύτερη δυνατή εμπειρία συγγραφής κώδικα (ειδικά σε Java), προτείνεται η χρήση του **IntelliJ CLion** της JetBrains.
+Για την καλύτερη δυνατή εμπειρία συγγραφής κώδικα (συγκεκριμένα σε C), προτείνεται η χρήση του **IntelliJ CLion** της JetBrains.
 - 🆓 **Δωρεάν για φοιτητές:** Μπορείτε να ξεκλειδώσετε την πλήρη έκδοση δωρεάν, κάνοντας [εγγραφή](https://www.jetbrains.com/academy/student-pack/) με το ιδρυματικό σας email (π.χ. `username@ihu.gr`).
 - 📥 [Κατεβάστε το IntelliJ CLion εδώ](https://www.jetbrains.com/clion/download/)
 
