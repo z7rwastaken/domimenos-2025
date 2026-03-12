@@ -25,10 +25,10 @@
 
 ## ⚠️ Προειδοποίηση
 - Αυτές οι λύσεις παρέχονται **αποκλειστικά για εκπαιδευτικούς σκοπούς**. Χρησιμοποιήστε τες ως σημείο αναφοράς για να κατανοήσετε τη λογική, και όχι για απευθείας αντιγραφή.
-- Οι λύσεις αποτελούν προσωπική προσπάθεια **και ενδέχεται να περιέχουν λάθη**. Εάν εντοπίσετε κάποιο σφάλμα, η επισήμανσή του μέσω ενός *[Issue](https://github.com/z7rwastaken/domimenos-2025/issues)* ή *[Pull Request](https://github.com/z7rwastaken/domimenos-2025/pulls)* είναι παραπάνω από ευπρόσδεκτη!
+- Οι λύσεις αποτελούν προσωπική προσπάθεια **και ενδέχεται να περιέχουν λάθη**. Εάν εντοπίσετε κάποιο σφάλμα, η επισήμανσή του μέσω ενός *[Issue](https://github.com/andreaskapsalhs/domimenos-2025/issues)* ή *[Pull Request](https://github.com/andreaskapsalhs/domimenos-2025/pulls)* είναι παραπάνω από ευπρόσδεκτη!
 
 ## 📫 Επικοινώνησε μαζί μου
-- **GitHub**: [@z7rwastaken](https://github.com/z7rwastaken)
+- **GitHub**: [@andreaskapsalhs](https://github.com/andreaskapsalhs)
 - **Email**: andreaskapsalhs@gmail.com
 - **Discord**: [@z7rwastaken](https://discord.com)
 
