@@ -30,7 +30,7 @@
 ## 📫 Επικοινώνησε μαζί μου
 - **GitHub**: [@andreaskapsalhs](https://github.com/andreaskapsalhs)
 - **Email**: andreaskapsalhs@gmail.com
-- **Discord**: [@z7rwastaken](https://discord.com)
+- **Discord**: [@kapsalhs](https://discord.com)
 
 ---
 
